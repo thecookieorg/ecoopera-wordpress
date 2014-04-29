@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'AvenirNextLTProRegular';
+    src: url('fonts/avenir/avenirnextltpro-regular.eot');
+    src: url('fonts/avenir/avenirnextltpro-regular.eot') format('embedded-opentype'),
+         url('fonts/avenir/avenirnextltpro-regular.woff') format('woff'),
+         url('fonts/avenir/avenirnextltpro-regular.ttf') format('truetype'),
+         url('fonts/avenir/avenirnextltpro-regular.svg#AvenirNextLTProRegular') format('svg');
+}
+
+@font-face {
+    font-family: 'AvenirNextLTProBold';
+    src: url('fonts/avenir/avenirnextltpro-bold.eot');
+    src: url('fonts/avenir/avenirnextltpro-bold.eot') format('embedded-opentype'),
+         url('fonts/avenir/avenirnextltpro-bold.woff') format('woff'),
+         url('fonts/avenir/avenirnextltpro-bold.ttf') format('truetype'),
+         url('fonts/avenir/avenirnextltpro-bold.svg#AvenirNextLTProBold') format('svg');
+}
+
+@font-face {
+    font-family: 'AvenirNextLTProDemi';
+    src: url('fonts/avenir/avenirnextltpro-demi.eot');
+    src: url('fonts/avenir/avenirnextltpro-demi.eot') format('embedded-opentype'),
+         url('fonts/avenir/avenirnextltpro-demi.woff') format('woff'),
+         url('fonts/avenir/avenirnextltpro-demi.ttf') format('truetype'),
+         url('fonts/avenir/avenirnextltpro-demi.svg#AvenirNextLTProDemi') format('svg');
+}
+
+@font-face {
+    font-family: 'AvenirNextLTProMedium';
+    src: url('fonts/avenir/avenirnextltpro-medium.eot');
+    src: url('fonts/avenir/avenirnextltpro-medium.eot') format('embedded-opentype'),
+         url('fonts/avenir/avenirnextltpro-medium.woff') format('woff'),
+         url('fonts/avenir/avenirnextltpro-medium.ttf') format('truetype'),
+         url('fonts/avenir/avenirnextltpro-medium.svg#AvenirNextLTProMedium') format('svg');
+}
+
+@font-face {
+    font-family: 'AvenirNextLTProUltraLight';
+    src: url('fonts/avenir/avenirnextltpro-ultlt.eot');
+    src: url('fonts/avenir/avenirnextltpro-ultlt.eot') format('embedded-opentype'),
+         url('fonts/avenir/avenirnextltpro-ultlt.woff') format('woff'),
+         url('fonts/avenir/avenirnextltpro-ultlt.ttf') format('truetype'),
+         url('fonts/avenir/avenirnextltpro-ultlt.svg#AvenirNextLTProUltraLight') format('svg');
+}

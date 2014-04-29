@@ -1,0 +1,93 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+.port_main_container {
+    width: 740px;
+}
+
+/* title background */
+.title_bkgd{
+	margin-top: 3px;
+	background-color: white;
+	border-top: 2px solid #cecece;
+	/*border-bottom: 2px solid #8cc640;*/
+}
+
+/* paragraph stylilng */
+p{
+	color:#474646;
+	font-family: 'Raleway', sans-serif;
+}
+
+/* footer styling */
+footer{
+	margin-top: 20px;
+}
+
+/* float right id */
+#float-right{
+	float: right;
+	margin: 10px 0 0 0;
+}
+
+/* copyright class styling */
+.copyright{
+	text-align: center;
+}
+
+/* image behind main navigation */
+#nav-bkgd{
+	z-index: -2;
+	float: right;
+}
+
+
+/* testing purpose */
+#test{
+	border: 2px solid green;
+}
+
+/* margins */
+#margin-top{
+	margin-top: 20px;
+}
+#margin-top-second{
+	margin-top: 20px;
+}
+#margin-top-first-row{
+	margin-top: 70px;
+}
+.margin_main_container{
+	margin-top:40px;
+}
+
+/* sub menu id */
+#sub-menu{
+	/*border: 2px solid black;*/
+}
+
+/* h2, h3 and h4 styling */
+h1, 
+h3{
+	font-family: 'Raleway', sans-serif;
+	text-transform: uppercase;
+}
+h4{
+	font-family: 'Raleway', sans-serif;
+}
+
+/* green line is next to the title of the page, on the right side */
+.green_line{
+	float: right; 
+	margin-top: 6px;
+}
+
+/* main picture under the title */
+.main_picture{
+	/*margin-top: -11px; */
+	margin-bottom: 20px;
+}

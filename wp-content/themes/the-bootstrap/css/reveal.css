@@ -1,0 +1,156 @@
+.containerEco, 
+.containerProducts, 
+.containerContinuous, 
+.containerEnergyMng, 
+.containerRetrofit,
+.containerSust {
+bottom: 0px ;
+display: none ;
+position: fixed ;
+width: 47.2%;
+}
+
+.containerMeasurement,
+.containerEnergyPerf {
+	bottom: 0px ;
+	display: none ;
+	position: fixed ;
+	width: 22.1%;
+}
+
+.containerManagement, 
+.containerAss, 
+.containerEng {
+	bottom: 0px;
+	display: none;
+	position: fixed;
+}
+
+.containerManagement {
+	width: 25.3%;
+	height: 151px;
+}
+.containerEco a[rel*="has-dotts"]:before, 
+.containerProducts a[rel*="has-dotts"]:before,
+.containerMeasurement a[rel*="has-dotts"]:before,
+.containerEnergyPerf a[rel*="has-dotts"]:before,
+.containerContinuous a[rel*="has-dotts"]:before,
+.containerEnergyMng a[rel*="has-dotts"]:before,
+.containerRetrofit a[rel*="has-dotts"]:before,
+.containerSust a[rel*="has-dotts"]:before, 
+.containerManagement a[rel*="has-dotts"]:before, 
+.containerAss a[rel*="has-dotts"]:before,
+.containerEng a[rel*="has-dotts"]:before {
+	content: ":: ";
+	color: #8cc63f;
+	font-size: 1.1rem;
+	font-weight: bold;
+	padding-left: 6px;
+	margin-bottom: 2px;
+}
+
+.containerManagement a, 
+.containerAss a, 
+.containerEng a,
+.containerEco a ,
+.containerProducts a,
+.containerMeasurement a,
+.containerEnergyPerf a,
+.containerContinuous a,
+.containerEnergyMng a,
+.containerRetrofit a,
+.containerSust a{
+	text-decoration: none;
+}
+.containerManagement a:hover, 
+.containerAss a:hover, 
+.containerEng a:hover,
+.containerEco a:hover ,
+.containerProducts a:hover,
+.containerMeasurement a:hover,
+.containerEnergyPerf a:hover,
+.containerContinuous a:hover,
+.containerEnergyMng a:hover,
+.containerRetrofit a:hover,
+.containerSust a:hover {
+	color: #8cc63f;
+}
+
+.containerManagement img, 
+.containerAss img, 
+.containerEng img,
+.containerEco img ,
+.containerProducts img,
+.containerMeasurement img,
+.containerEnergyPerf img,
+.containerContinuous img,
+.containerEnergyMng img,
+.containerRetrofit img,
+.containerSust img {
+	max-width: 100%;
+}
+
+.containerEco, 
+.containerContinuous{
+	left: 30px ;
+}	
+
+.containerManagement {
+	left: 111px;
+}
+
+.containerAss {
+	left: 112px;
+}
+
+.containerEng {
+	left: 68.7%;
+}
+
+.containerAss {
+	width: 24.9%;
+	height: 191px;
+}	
+
+.containerEng  {
+	width: 25.3%;
+	height: 297px;
+}
+
+
+.containerEnergyMng {
+	height: 152px;
+}
+
+.containerProducts, 
+.containerEnergyMng {
+	left: 52.7% ;
+}
+.containerMeasurement, 
+.containerRetrofit {
+	left: 52.9% ;
+}
+.containerEnergyPerf, 
+.containerSust {
+	left: 77.8% ;
+}
+
+ 
+#innerEco, 
+#innerProducts, 
+#innerMeasurement, 
+#innerEnergyPerf, 
+#innerContinuous, 
+#innerEnergyMng, 
+#innerRetrofit, 
+#innerSust, 
+#innerManagement, 
+#innerAss, 
+#innerEng {
+background-color: white ;
+opacity: .9;
+/*-webkit-filter: blur(4px);*/
+/*border: 1px solid #666666 ;*/
+border-bottom-width: 0px ;
+/*padding: 20px 20px 100px 20px ;*/
+}
